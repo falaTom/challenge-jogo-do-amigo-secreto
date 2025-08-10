@@ -37,3 +37,11 @@ Com uma interface limpa e intuitiva, qualquer pessoa pode adicionar os nomes dos
    ```bash
    git clone https://github.com/falaTom/challenge-jogo-do-amigo-secreto.git
 
+   ## 👩‍💻 Pessoas Desenvolvedoras
+
+## Este projeto foi desenvolvido com dedicação por:
+
+- *Éverton da Silva Brito** – Idealização, estrutura HTML e lógica JavaScript  
+  GitHub: [falaTom](https://github.com/falaTom)
+
+
