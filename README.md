@@ -1,5 +1,5 @@
-# Sorteador de Amigo Secreto
-
+# Jogo do Amigo Secreto
+![Image](https://github.com/user-attachments/assets/1fa2f9d3-3fe4-4ce7-b02b-9b5420c485dc)
 Um projeto simples e divertido para realizar o sorteio do seu Amigo Secreto (ou Amigo Oculto) de forma rápida, fácil e online.
 
 🔗 **Link do projeto**: [Acesse o Sorteador no GitHub](https://github.com/falaTom/challenge-jogo-do-amigo-secreto)  
