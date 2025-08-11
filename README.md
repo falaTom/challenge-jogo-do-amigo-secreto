@@ -3,7 +3,7 @@
 Um projeto simples e divertido para realizar o sorteio do seu Amigo Secreto (ou Amigo Oculto) de forma rápida, fácil e online.
 
 🔗 **Link do projeto**: [Acesse o Sorteador no GitHub](https://github.com/falaTom/challenge-jogo-do-amigo-secreto)  
-*(Ainda não publicado online — disponível apenas como código-fonte)*
+    **Link di site**:https://falatom.github.io/challenge-jogo-do-amigo-secreto/
 
 ---
 
